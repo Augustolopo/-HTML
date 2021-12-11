@@ -1,9 +1,20 @@
-a{
-    color:blueviolet;
-    text-decoration: none;
+h1,a{
+    color:hotpink;
+}
+p a{
+    color:green;
+    font-size: 45px;
+}#_eu{
+    color:orangered;
 }
 
-a{
-    font-size: 32px;
-    
+.luana{
+    color:palevioletred;
+}
+.akisha{
+    font-size: 54px;
+}
+
+.julia{
+text-decoration: underline;
 }
